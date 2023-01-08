@@ -15,7 +15,6 @@ public class LombokApplication {
 //	public static void main(String[] args) {
 //		SpringApplication.run(LombokApplication.class, args);
 //	}
-
 	public static void main(String[] args) {
 		CustomerBasicService customerBasicService = new CustomerBasicService(new CustomerBasic());
 		customerBasicService.getABC();
