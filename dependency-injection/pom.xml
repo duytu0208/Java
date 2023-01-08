@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>base-project</artifactId>
+	<artifactId>dependency-injection</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>base-project</name>
-	<description>Base project</description>
+	<name>dependency-injection</name>
+	<description>Learn Dependency Injection and Write Better Code</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
