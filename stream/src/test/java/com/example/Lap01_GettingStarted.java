@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class GettingStarted {
+public class Lap01_GettingStarted {
 
     @Test
     public void imperativeApproach() throws IOException {
